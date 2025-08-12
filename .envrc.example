@@ -1,0 +1,6 @@
+export DB_HOST=localhost
+export DB_USER=ph_news_user
+export DB_PASSWORD=super_secret_password
+export DB_PORT=5432
+export DB_NAME=ph_news_db
+export DB_SCHEMA=analytics
